@@ -1,3 +1,6 @@
+#thanks to adafruit for some code/tutorial
+#https://learn.adafruit.com/ssd1306-oled-displays-with-raspberry-pi-and-beaglebone-black/usage
+
 #imports for the envirophat
 from envirophat import light
 from envirophat import leds
