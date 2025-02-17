@@ -1,5 +1,6 @@
 #thanks to adafruit for some code/tutorial
 #https://learn.adafruit.com/ssd1306-oled-displays-with-raspberry-pi-and-beaglebone-black/usage
+# License for the Adafruit repo: https://github.com/adafruit/Adafruit_Python_SSD1306/blob/master/LICENSE
 
 #imports for the envirophat
 from envirophat import light
